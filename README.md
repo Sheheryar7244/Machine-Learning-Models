@@ -3,6 +3,7 @@ This repository contains implementations and comparative analysis of various Mac
 The goal of this project is to understand model performance, evaluate accuracy metrics, and apply machine learning techniques to real-world datasets.
 
 📂 Projects Included
+
 🔹 1. Linear Regression Model
 Implemented a regression model to predict continuous values.
 Explored relationships between variables using visualization.
